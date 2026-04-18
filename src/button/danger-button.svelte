@@ -1,5 +1,1 @@
-<script>
-  const { label = 'Button', ...props } = $props();
-</script>
-
-<button {...props}>{label}</button>
+<button class="bg-red-800 text-red-300 px-3 py-1 rounded-2xl shadow-md shadow-red-300 hover:bg-red-900">Button</button>
