@@ -1,4 +1,14 @@
 @import 'tailwindcss';
 
+/* @custom-variant dark (&where(.dark, .dark *)); */
+
+:root {
+    --color-brand: #1e40af;
+    --color-secondary: #f58e0b
+    --very-important-brand-color: #1e40af;
+}
+
 @theme {
+    --color-brand: var(--very-important-brand-color);
+    --color-secondary: #f58e0b;
 }

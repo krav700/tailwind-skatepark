@@ -1,1 +1,1 @@
-<button class="bg-blue-600 text-white px-3 py-1.5 rounded-md shadow-sm shadow-cyan-700 hover:bg-blue-500">Button</button>
+<button class="transition-colors animate-pulse duration-500 bg-blue-600 text-white px-3 py-1.5 rounded-md shadow-sm shadow-cyan-700 hover:bg-blue-500">Button</button>
